@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/10-21-00-MaquintaSnacks-parte4-UJB.iml" filepath="$PROJECT_DIR$/10-21-00-MaquintaSnacks-parte4-UJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaquintaSnacks.iml" filepath="$PROJECT_DIR$/MaquintaSnacks.iml" />
     </modules>
   </component>
 </project>
