@@ -1,0 +1,5 @@
+1, Refresco, 50.0
+2, Papas, 80.0
+3, Sandwich, 90.0
+4, Pizza, 30.0
+5, Soda, 25.0
